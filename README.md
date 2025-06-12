@@ -1,6 +1,8 @@
-## Hi there 👋
-# 💫 About Me:
-I'm currently studying in college and practicing Leetcode problems 100+ hours a week to nail those technicals !
+
+# Hello World :wave:  
+:muscle: I'm currently studying software engineering at Georgian College  
+:broken_heart: Practicing Leetcode problems 100+ hours a week to nail those technicals !  
+:boom: Check out my portfolio !  
 
 
 ## 🌐 Socials:
