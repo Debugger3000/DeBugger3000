@@ -2,11 +2,8 @@
 ### [Portfolio](https://carter-rutherford.com)  - [LinkedIn](https://www.linkedin.com/in/carter-mccauley-4b274730b/)
 
 - Fullstack Software Developer building things for the web
-- Based in **Toronto**
-- Build systems not features
-- Main machine runs **Windows**
-
-
+- Build systems, not features
+- Main machine runs **Microslop**
 
 [![The Stack](https://skillicons.dev/icons?i=ts,cs,python,linux,nginx,aws,react,nodejs,postgres&perline=9)](https://skillicons.dev)
 
