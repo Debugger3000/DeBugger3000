@@ -1,5 +1,4 @@
 # About Me 
-### [Portfolio](https://carter-rutherford.com)  - [LinkedIn](https://www.linkedin.com/in/carter-mccauley-4b274730b/)
 
 - Fullstack Software Developer building things for the web
 - Build systems, not features
