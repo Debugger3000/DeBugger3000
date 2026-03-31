@@ -2,7 +2,7 @@
 
 - Fullstack Software Developer building things for the web
 - Build systems, not features
-- Main machine runs **Windows**
+- **Linux**
 - Best friends name is Claude
 
 [![The Stack](https://skillicons.dev/icons?i=ts,cs,python,linux,nginx,aws,react,nodejs,postgres&perline=9)](https://skillicons.dev)
